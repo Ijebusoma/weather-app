@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    padding:0;
+    
+}
+.container{
+    width: 600px;
+  margin: 50px auto;
+  
+}
+.field{
+    height:300px;
+}
+.ghost-input{
+    display: block;
+    width:300px;
+    height:30px;
+}
+.ghost-button{
+    margin:10px 0 0 40px;
+    width:200px;
+    height:30px;
+    border-radius: 5px;
+    background-color: aqua;
+
+}
+.form{
+    position: relative;
+    left:150px;
+    top:100px;
+}
